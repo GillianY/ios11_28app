@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios'>
+    <pages>
+        <page name='s3_55'/>
+        <page name='s3_95_array'/>
+        <page name='s3_105_dictionary'/>
+        <page name='s3_95_array_func'/>
+        <page name='s3_110_dictionary_2'/>
+        <page name='s3_111_loop'/>
+        <page name='s3_132_function'/>
+        <page name='s10_226_tuples'/>
+        <page name='Untitled Page'/>
+        <page name='s10_232_enumerations'/>
+    </pages>
+</playground>
